@@ -27,7 +27,7 @@
 			"file": "djangolm/boletin/forms.py",
 			"settings":
 			{
-				"buffer_size": 123,
+				"buffer_size": 608,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +35,15 @@
 			"file": "djangolm/boletin/views.py",
 			"settings":
 			{
-				"buffer_size": 366,
+				"buffer_size": 489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djangolm/boletin/admin.py",
+			"settings":
+			{
+				"buffer_size": 453,
 				"line_ending": "Unix"
 			}
 		}
@@ -105,7 +113,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -165,15 +173,15 @@
 					"file": "djangolm/boletin/forms.py",
 					"settings":
 					{
-						"buffer_size": 123,
+						"buffer_size": 608,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								510,
+								510
 							]
 						],
 						"settings":
@@ -181,7 +189,7 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 92.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -191,22 +199,49 @@
 					"file": "djangolm/boletin/views.py",
 					"settings":
 					{
-						"buffer_size": 366,
+						"buffer_size": 489,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								261,
-								261
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 81.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "djangolm/boletin/admin.py",
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 4.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
