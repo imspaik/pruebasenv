@@ -7,6 +7,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "djangolm/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tcl/CRUD.md",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "djangolm/boletin/forms.py",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "djangolm/boletin/views.py",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -32,7 +64,13 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/djangolm/settings.py"
+		"/C/Users/Ixty/Desktop/pruebasenv/tcl/CRUD.md",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/djangolm/templates/inicio.html",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/djangolm/settings.py",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/djangolm/urls.py",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/boletin/views.py",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/boletin/admin.py",
+		"/C/Users/Ixty/Desktop/pruebasenv/djangolm/boletin/models.py"
 	],
 	"find":
 	{
@@ -67,8 +105,113 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "djangolm/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tcl/CRUD.md",
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "djangolm/boletin/forms.py",
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "djangolm/boletin/views.py",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -78,7 +221,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
